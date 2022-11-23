@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/23 01:34:27.000.841,=C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/23 01:55:08.000.843,C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Exer01.pas</Transaction>
+    <Transaction>2022/11/23 01:55:08.000.843,C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Exer01.dfm</Transaction>
+    <Transaction>2022/11/23 01:55:22.000.822,C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/11/23 17:27:42.000.228,C:\Users\Vanderlei\Documents\estudos\delphi\Exer01.pas=C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Exer01.pas</Transaction>
+    <Transaction>2022/11/23 17:27:42.000.228,C:\Users\Vanderlei\Documents\estudos\delphi\Exer01.dfm=C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Exer01.dfm</Transaction>
+    <Transaction>2022/11/23 17:37:26.000.885,C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Vanderlei\Documents\estudos\Delphi\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
