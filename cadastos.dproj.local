@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/23 23:10:11.000.223,=C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/23 23:28:12.000.504,C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\cadastro.pas=C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/23 23:28:12.000.504,C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\cadastro.dfm=C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/11/23 23:30:53.000.573,C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\cadastos.dproj=C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2022/11/23 23:41:42.000.109,C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\cadastro\ArquiCadastro.dfm=C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\cadastro.dfm</Transaction>
+    <Transaction>2022/11/23 23:41:42.000.109,C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\cadastro\ArquiCadastro.pas=C:\Users\Vanderlei\Documents\Embarcadero\Studio\Projects\cadastro.pas</Transaction>
+  </Transactions>
+</BorlandProject>
